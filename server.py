@@ -12,6 +12,7 @@ from fastapi.responses import Response
 SECRET_KEY = "7e400e33e9526d40d9942385b170fc9401ef939cbe8ac8082e01282049958282"
 PASSWORD_SALT = "33566441ee1d1399fef29977688546b23dbeb1ade69ebec4f369168753fdde98"
 
+
 app = FastAPI()
 
 
